@@ -1,0 +1,20 @@
+# Build artifacts
+/build/
+/out/
+/bin/
+/CMakeFiles/
+/CMakeCache.txt
+/*.sln
+/*.vcxproj*
+/.vs/
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/ipch

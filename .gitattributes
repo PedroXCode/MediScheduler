@@ -1,0 +1,6 @@
+* text=auto eol=lf
+bin/* linguist-generated=true
+out/* linguist-generated=true
+build/* linguist-generated=true
+.vs/* linguist-generated=true
+*.bat linguist-vendored
